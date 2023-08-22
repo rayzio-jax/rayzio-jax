@@ -8,11 +8,11 @@
 
 ### Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayzio-jax&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="rayzio-jax's Stats">
-<!-- </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayzio-jax&theme=synthwave&hide_border=false" alt="rayzio-jax's Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayzio-jax&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="rayzio-jax's Stats">
+</p>
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayzio-jax&theme=synthwave&hide_border=true" alt="rayzio-jax's Streak">
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayzio-jax&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="rayzio-jax's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayzio-jax&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="rayzio-jax's Top Languages">
 </p>
