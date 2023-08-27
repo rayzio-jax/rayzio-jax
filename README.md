@@ -1,6 +1,15 @@
 ### Hi👋, I'm Ray a Junior Front End Developer.
-### For now, I'm unavailable ❌ for work 'cause I'm still working on my own project.
+### For now, I'm unavailable ❌ for work 'cause I'm still learning most of developers tools.
 ### 📧 Here I'm dropping my mail if you have any question: rayhananthaakbar@gmail.com
+
+<details>
+<summary><h2>Experience</h2></summary>
+  
+* ReactJS
+* TailwindCSS
+* Javascript
+* Python
+</details>
 
 ### You can reach too me on these social:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhanantha-akbar)
