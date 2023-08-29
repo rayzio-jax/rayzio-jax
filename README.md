@@ -5,10 +5,30 @@
 <details>
 <summary><h2>Experience</h2></summary>
   
-* ReactJS
-* TailwindCSS
-* Javascript
-* Python
+  * ReactJS
+  * TailwindCSS
+  * Javascript
+  * Python
+</details>
+
+<details>
+<summary><h2>Finished Projects</h2></summary>
+
+  * [Sign Language Translator](https://github.com/Team-C22-039/sign-language-translator.git) - Team Project / 2022 [UI/UX Designer & FE] (used Team C22-029 account in this project)
+  * [Sumbergedang Product Catalog](https://github.com/rayzio-jax/product-catalog.git) - Solo Project / 2023
+  * [campUS](https://github.com/YuukioFuyu/campUS.git) - Team Project / 2023 [UI/UX Designer & FE]
+</details>
+
+<details>
+<summary><h2>Ongoing Projects</h2></summary>
+  
+  * Anime List Bookmarker
+</details>
+
+<details>
+<summary><h2>Planned Projects</h2></summary>
+  
+  * Pokemon Card List
 </details>
 
 ### You can reach too me on these social:
