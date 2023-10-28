@@ -15,9 +15,9 @@
 <summary><h2>Finished Projects</h2></summary>
 
   * [Sign Language Translator](https://github.com/Team-C22-039/sign-language-translator.git) - Team Project / 2022 [UI/UX Designer & FE] (used Team C22-029 account in this project)
-  * [Sumbergedang Product Catalog](https://github.com/rayzio-jax/product-catalog.git) - Static Web Product Catalog / 2023 [UI/UX Designer & Fullstack]
+  * [Sumbergedang Product Catalog](https://github.com/rayzio-jax/product-catalog.git) - Solo Project / 2023 [UI/UX Designer & Fullstack]
   * [campUS](https://github.com/YuukioFuyu/campUS.git) - Team Project / 2023 [UI/UX Designer & FE]
-* [hyakunime](https://github.com/rayzio-jax/hyakunime.git) - Anime Bookmarker / 2023 [UI/UX Designer & Fullstack]
+* [hyakunime](https://github.com/rayzio-jax/hyakunime.git) - Solo Project / 2023 [UI/UX Designer & Fullstack]
 </details>
 
 <details>
