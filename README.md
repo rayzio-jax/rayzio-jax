@@ -17,17 +17,21 @@
   * [Sign Language Translator](https://github.com/Team-C22-039/sign-language-translator.git) - Team Project / 2022 [UI/UX Designer & FE] (used Team C22-029 account in this project)
   * [Sumbergedang Product Catalog](https://github.com/rayzio-jax/product-catalog.git) - Solo Project / 2023 [UI/UX Designer & Fullstack]
   * [campUS](https://github.com/YuukioFuyu/campUS.git) - Team Project / 2023 [UI/UX Designer & FE]
-* [hyakunime](https://github.com/rayzio-jax/hyakunime.git) - Solo Project / 2023 [UI/UX Designer & Fullstack]
+  * [hyakunime](https://github.com/rayzio-jax/hyakunime.git) - Solo Project / 2023 [UI/UX Designer & Fullstack]
 </details>
 
 <details>
 <summary><h2>Ongoing Projects</h2></summary>
+
+  * Freelance API
 </details>
 
 <details>
 <summary><h2>Planned Projects</h2></summary>
   
   * Pokemon Card List
+  * Anonymus Chat
+  * ???
 </details>
 
 ### You can reach too me on these social:
