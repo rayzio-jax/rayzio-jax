@@ -8,6 +8,7 @@
   * ReactJS
   * TailwindCSS
   * Javascript
+  * Typescript
   * Python
 </details>
 
