@@ -3,7 +3,7 @@
 ### ~✅ Available for work in small projects.~
 ### 📧 Here I'm dropping my mail if you have any question: rayhananthaakbar@gmail.com
 
-<details>
+<details open>
 <summary><h2>Finished Projects</h2></summary>
 
   * [Sign Language Translator](https://github.com/Team-C22-039/sign-language-translator.git) - Team Project / 2022 [UI/UX Designer & FE] (used Team C22-029 account in this project)
@@ -13,18 +13,15 @@
 </details>
 
 <details>
-<summary><h2>Ongoing Projects</h2></summary>
-
-  * Freelance API
-</details>
-
-<details>
 <summary><h2>Planned Projects</h2></summary>
   
   * Pokemon Card List
   * Anonymus Chat
   * ???
 </details>
+
+### Ongoing Project
+[Freelance API](github.com/rayzio-jax/freelance-api)
 
 ### You can reach too me on these social:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayputrap)
