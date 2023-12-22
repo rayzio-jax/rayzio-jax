@@ -1,17 +1,7 @@
 ### Hi👋, I'm Ray a Front-end Developer.
-### ~For now, I'm unavailable ❌ for work 'cause I'm still learning most of developers tools.~
-### ✅ Available for work in small projects.
+### For now, I'm unavailable ❌ for work 'cause I'm still learning most of developers tools.
+### ~✅ Available for work in small projects.~
 ### 📧 Here I'm dropping my mail if you have any question: rayhananthaakbar@gmail.com
-
-<details>
-<summary><h2>Experience</h2></summary>
-  
-  * ReactJS
-  * TailwindCSS
-  * Javascript
-  * Typescript
-  * Python
-</details>
 
 <details>
 <summary><h2>Finished Projects</h2></summary>
@@ -38,7 +28,7 @@
 
 ### You can reach too me on these social:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayputrap)
-* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kzyari.v)
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayziojax)
 
 ### Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rayzio-jax&theme=synthwave&show_icons=true&hide_border=true&count_private=true)<br>
