@@ -21,7 +21,7 @@
 </details>
 
 ### Ongoing Project
-[Freelance API](github.com/rayzio-jax/freelance-api)
+[Freelance API](https://github.com/rayzio-jax/freelance-api)
 
 ### You can reach too me on these social:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayputrap)
