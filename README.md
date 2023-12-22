@@ -1,5 +1,5 @@
 ### Hi👋, I'm Ray a Front-end Developer.
-### For now, I'm unavailable ❌ for work 'cause I'm still learning most of developers tools.
+### ❌ Unavailable for work due to college tasks.
 ### ~✅ Available for work in small projects.~
 ### 📧 Here I'm dropping my mail if you have any question: rayhananthaakbar@gmail.com
 
