@@ -15,7 +15,7 @@
 <details>
 <summary><h2>Planned Projects</h2></summary>
   
-  * Pokemon Card List
+  * Discord Bot
   * Anonymus Chat
   * ???
 </details>
