@@ -1,13 +1,15 @@
 ### Hi👋, I'm Ray a Front-end Developer.
 ### ❌ Unavailable for work due to college tasks.
-### ~✅ Available for work in small projects.~
 
 ### You can reach me on these social:
-* [![linkedin](https://img.shields.io/badge/linkedin-rayputrap-333333?labelColor=blue&style=for-the-badge&logo=x&logoColor=white&link=https://www.linkedin.com/in/rayputrap)](https://www.linkedin.com/in/rayputrap)
-* [![instagram](https://img.shields.io/badge/instagram-kzyari.v-333333?labelColor=E1306C&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/kzyari.v)](https://instagram.com/kzyari.v)
-* [![twitter](https://img.shields.io/badge/twitter-rayziojax-333333?labelColor=gray&style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/rayziojax)](https://twitter.com/rayziojax)
-* [![trakteer](https://img.shields.io/badge/trakteer-rayziojax-333333?labelColor=eb0909&style=for-the-badge&logo=trakteer&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
-* [![ko-fi](https://img.shields.io/badge/ko--fi-rayziojax-333333?labelColor=6800b3&style=for-the-badge&logo=ko-fi&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
+[![linkedin](https://img.shields.io/badge/linkedin-rayputrap-333333?labelColor=blue&style=for-the-badge&logo=x&logoColor=white&link=https://www.linkedin.com/in/rayputrap)](https://www.linkedin.com/in/rayputrap)
+[![instagram](https://img.shields.io/badge/instagram-kzyari.v-333333?labelColor=E1306C&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/kzyari.v)](https://instagram.com/kzyari.v)
+[![twitter](https://img.shields.io/badge/twitter-rayziojax-333333?labelColor=gray&style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/rayziojax)](https://twitter.com/rayziojax)
+
+### Donate me here 🥺
+[![trakteer](https://img.shields.io/badge/trakteer-rayziojax-333333?labelColor=eb0909&style=for-the-badge&logo=trakteer&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
+[![ko-fi](https://img.shields.io/badge/ko--fi-rayziojax-333333?labelColor=6800b3&style=for-the-badge&logo=ko-fi&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
+> _Appreciate any donations, it helps me a lot to grow 🫂😭, I'll use it good man 🫡_
 
 <details open>
 <summary><h2>Finished Projects</h2></summary>
