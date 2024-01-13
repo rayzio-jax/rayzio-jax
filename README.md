@@ -1,5 +1,5 @@
 ### Hi👋, I'm Ray a Front-end Developer.
-### Goals: 👨‍💻 Full-stack Developer 
+### Goal: 👨‍💻 Full-stack Developer
 ### ❌ Unavailable for work due to college tasks.
 
 ### You can reach me on these social:
