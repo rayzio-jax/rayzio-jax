@@ -31,8 +31,6 @@
 
 ### 👥 You can reach me on these social:
 [![linkedin](https://img.shields.io/badge/linkedin-rayputrap-333333?labelColor=blue&style=for-the-badge&logo=x&logoColor=white&link=https://www.linkedin.com/in/rayputrap)](https://www.linkedin.com/in/rayputrap)
-[![instagram](https://img.shields.io/badge/instagram-kzyari.v-333333?labelColor=E1306C&style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/kzyari.v)](https://instagram.com/kzyari.v)
-[![twitter](https://img.shields.io/badge/twitter-rayziojax-333333?labelColor=gray&style=for-the-badge&logo=x&logoColor=white&link=https://twitter.com/rayziojax)](https://twitter.com/rayziojax)
 
 ### 🥺 Donate me here
 [![trakteer](https://img.shields.io/badge/trakteer-rayziojax-333333?labelColor=eb0909&style=for-the-badge&logo=trakteer&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
