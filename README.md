@@ -34,7 +34,7 @@ I want to expertise my skills and encourage myself to explore new technologies w
 
 ### 👥 You can reach me on these social:
 [![linkedin](https://img.shields.io/badge/linkedin-rayputrap-333333?labelColor=blue&style=for-the-badge&logo=x&logoColor=white&link=https://www.linkedin.com/in/rayputrap)](https://www.linkedin.com/in/rayputrap) <br/>
-[![gmail](https://img.shields.io/badge/rayhananthaakbar@gmail.com-100000?style=plastic&logo=Gmail&logoColor=FF0000&labelColor=FFFFFF&color=1F3F23)](https://mail.google.com)
+[![gmail](https://img.shields.io/badge/rayhananthaakbar@gmail.com-100000?style=plastic&logo=Gmail&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF)](https://mail.google.com)
 
 ### 🥺 Donate me here
 [![trakteer](https://img.shields.io/badge/trakteer-rayziojax-333333?labelColor=eb0909&style=for-the-badge&logo=trakteer&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
