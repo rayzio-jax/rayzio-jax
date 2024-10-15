@@ -14,10 +14,10 @@ I want to expertise my skills and encourage myself to explore new technologies w
 <summary><h2>📌 Finished Projects</h2></summary>
 
   * [Sign Language Translator](https://github.com/rayzio-jax/Sign-Language-Translator) - Team Project / 2022 [UI/UX Designer & FE] (used Team C22-029 account in this project)
-  * [Sumbergedang Product Catalog](https://github.com/rayzio-jax/Sumbergedang-Product-Catalog) - Solo Project / 2023 [UI/UX Designer & FE]
-  * [campUS](https://github.com/YuukioFuyu/campUS) - Team Project / 2023 [UI/UX Designer & FE]
-  * [hyakunime](https://github.com/rayzio-jax/Hyakunime) - Solo Project / 2023 [UI/UX Designer & Fullstack]
-  * [FreelancekuAPI](https://github.com/rayzio-jax/Freelanceku-API) - Solo Project / 2023 [UI/UX Designer & Fullstack]
+  * [Sumbergedang Product Catalog](https://github.com/rayzio-jax/Sumbergedang-Product-Catalog) - Solo Project / 2023 [UI/UX & FE]
+  * [campUS](https://github.com/YuukioFuyu/campUS) - Team Project / 2023 [UI/UX & FE]
+  * [hyakunime](https://github.com/rayzio-jax/Hyakunime) - Solo Project / 2023 [UI/UX & Fullstack]
+  * [FreelancekuAPI](https://github.com/rayzio-jax/Freelanceku-API) - Solo Project / 2023 [Back-end Engineer]
 </details>
 
 <details>
