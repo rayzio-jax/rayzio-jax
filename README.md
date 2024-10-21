@@ -1,6 +1,6 @@
 ### Hi👋 Welcome to my Github profile!
 ## > About me
-Just call me Ray, freshgrad on June 2024. Learned academic and practical experience in Web Development, experienced in Javascript for web development or general use. Javascript main on most solo project and having interest to explore more on other technologies. Used to practice Web Development using ReactJS, NuxtJS, or NextJS to improve my skills. I'm quiet experienced in Back-end side using Express.js and MongoDB as the database. Nice to meet yall!
+Just call me Ray, freshgrad on June 2024. Learned academic and practical experience in Web Development, experienced in Javascript for web development or general use. Javascript main on most solo project and having interest to explore more on other technologies. Used to practice Web Development using ReactJS, NuxtJS, or NextJS to improve my skills. Having small experience in Back-end side using Express.js and MongoDB as the database. Nice to meet yall!
 
 ## > My goals
 I want to expertise my skills and encourage myself to explore new technologies with the help from communities or A.I. I'm seeking an opportunities for anyone who wants to discuss or connect with me as I would like to hear about some people opininon and experiences to give myself another perspective and understanding about technologies.
