@@ -66,13 +66,18 @@ So, what's interesting lately?
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rayzio-jax/count.svg?"  />
+</div>
+
+###
+
 <h1 align="center">𝙳  𝙾  𝙽  𝙰  𝚃  𝙸  𝙾  𝙽</h1>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rayzio-jax/count.svg?"  />
-</div>
+[![trakteer](https://img.shields.io/badge/trakteer-rayziojax-333333?labelColor=eb0909&style=for-the-badge&logo=trakteer&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
+[![ko-fi](https://img.shields.io/badge/ko--fi-rayziojax-333333?labelColor=6800b3&style=for-the-badge&logo=ko-fi&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
 
 ###
 
