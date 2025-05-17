@@ -2,7 +2,7 @@
 
 ###
 
-I'm {{AGE}} years old 🙂
+I'm 22 years old 🙂
 <br>
 I'm interested in most tech, not until my head blows up 💥 but I enjoy it 👍
 <br>
