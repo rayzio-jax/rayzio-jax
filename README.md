@@ -1,47 +1,83 @@
-### Hi👋 Welcome to my Github profile!
-## 👤 About me
-I'm a freshgrads from Indonesia interested into any development when I find it interesting, recently I'm diving deep into Web Development for Front-end or Back-end, I do Front-end or Fullstack Development by myself, and sometimes freelance. I love to learn new things especially when it's into technology. I'd love to connect with people to discuss and share new experience, while aspiring some people to be creative and build a new solution toward some problem.
+<h2 align="left">Yo there 🙋‍♂️</h2>
 
-## 💼 Skills
-<details>
-<summary>Programming Language</summary>
- 
-  * Javascript / Typescript
-  * PHP
-  * Python
-</details>
-<details>
-<summary>Database</summary>
- 
-  * SQL [PostgreSQL, MySQL]
-  * NoSQL [MongoDB]
-</details>
-<details>
-<summary>Serverless Database</summary>
- 
-  * Supabase
-  * MongoDB Cloud
-  * Neon Postgres by Vercel
-</details>
-<details>
-<summary>Framework</summary>
- 
-  * React.js / Next.js
-  * Vue.js / Nuxt.js
-  * SvelteKit (Basic)
-  * Laravel 11 (Basic)
-</details>
+###
 
-### 📃 Summary Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=rayzio-jax&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayzio-jax&show_icons=true&hide_border=true&layout=compact)
-<img src="https://github-profile-trophy.vercel.app/?username=rayzio-jax">
+I'm **{{AGE}}** years old 🙂
+<br>
+I'm interested in most tech, not until my head blows up 💥 but I enjoy it 👍
+<br>
+So, what's interesting lately?
 
-### 👥 You can reach me on these social:
-[![linkedin](https://img.shields.io/badge/linkedin-rayputrap-333333?labelColor=blue&style=for-the-badge&logo=x&logoColor=white&link=https://www.linkedin.com/in/rayputrap)](https://www.linkedin.com/in/rayputrap) <br/>
-[![gmail](https://img.shields.io/badge/rayhananthaprasetyo@gmail.com-100000?style=plastic&logo=Gmail&logoColor=FF0000&labelColor=FFFFFF&color=FFFFFF)](https://mail.google.com/mail/?view=cm&to=rayhananthaprasetyo@gmail.com)
+###
 
-### 🥺 Donate me here
-[![trakteer](https://img.shields.io/badge/trakteer-rayziojax-333333?labelColor=eb0909&style=for-the-badge&logo=trakteer&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
-[![ko-fi](https://img.shields.io/badge/ko--fi-rayziojax-333333?labelColor=6800b3&style=for-the-badge&logo=ko-fi&logoColor=white&link=https://trakteer.id/rayziojax)](https://trakteer.id/rayziojax)
-> _Appreciate any amount of donation, thank you a good fellow stranger._
+<h3 align="left">📃 Currently learning</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+</div>
+
+###
+
+<h3 align="left">📱 Contact me here</h3>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/rayputrap" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/rayzio-jax" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:rayhananthaakbar@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">💻 Dev routine</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayzio-jax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rayzio-jax&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rayzio-jax&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h1 align="center">𝙳  𝙾  𝙽  𝙰  𝚃  𝙸  𝙾  𝙽</h1>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rayzio-jax/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://media1.tenor.com/m/IFC8x683jUAAAAAC/kowloon-generic.gif"  />
+</div>
+
+###
