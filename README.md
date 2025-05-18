@@ -2,7 +2,7 @@
 
 ###
 
-I'm Ray,  years old 🙂 <br>
+I'm Ray, 22 years old 🙂 <br>
 I think I need help with some code stuff 😀 <br>
 I like any projects that I found it interesting, gotchu 😉 <br>
 Kebab for life 🥙🍴
