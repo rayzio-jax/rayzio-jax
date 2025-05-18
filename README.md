@@ -2,11 +2,11 @@
 
 ###
 
-I'm 22 years old 🙂
+I'm Ray 🙂
 <br>
-I'm interested in most tech, not until my head blows up 💥 but I enjoy it 👍
+A guy that interested in most tech, not until my head blows up 💥 but I enjoy it 👍
 <br>
-So, what's interesting lately?
+So, what's interesting lately? 🤔
 
 ###
 
