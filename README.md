@@ -2,7 +2,7 @@
 
 ###
 
-I'm Ray 🙂
+I'm Ray, {{ YEAR }} 🙂
 <br>
 A guy that interested in most tech, not until my head blows up 💥 but I enjoy it 👍
 <br>
