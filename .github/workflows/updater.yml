@@ -1,20 +1,32 @@
-name: Update Age
+name: Update age
+
 on:
     schedule:
-        - cron: "0 0 * * *" # Updates daily
+        - cron: "0 0 1 1 *" # Run once a year on Jan 1st
     workflow_dispatch:
+
+permissions:
+    contents: write
+
 jobs:
     update-readme:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
-            - name: Update age in README
+            - name: Checkout repo
+              uses: actions/checkout@v3
+
+            - name: Update README.md with new age
               run: |
-                  cp README.md README.original
-                  YEAR=$(( ($(date +%s) - $(date -d "2002-11-13" +%s)) / 31536000 ))
+                  YEAR=$(( ($(date +%s) - $(date -d "2000-01-10" +%s)) / 31536000 ))
                   sed "s/{{ YEAR }}/$YEAR/g" README.original > README.md
+
+                  if git diff --quiet README.md; then
+                    echo "No changes, age is up-to-date."
+                    exit 0
+                  fi
+
                   git config user.name github-actions
                   git config user.email github-actions@github.com
                   git add README.md
-                  git commit -m "up"
+                  git commit -m "Update age in README"
                   git push
