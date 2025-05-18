@@ -17,7 +17,7 @@ jobs:
 
             - name: Update README.md with new age
               run: |
-                  YEAR=$(( ($(date +%s) - $(date -d "2002-13-11" +%s)) / 31536000 ))
+                  YEAR=$(( ($(date +%s) - $(date -d "2002-11-13" +%s)) / 31536000 ))
                   sed "s/{{ YEAR }}/$YEAR/g" README.original > README.md
 
                   if git diff --quiet README.md; then
