@@ -1,4 +1,4 @@
-name: Github Actions
+name: Update Age
 on:
     schedule:
         - cron: "0 0 * * *" # Updates daily
