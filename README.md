@@ -2,11 +2,10 @@
 
 ###
 
-I'm Ray, 22 🙂
-<br>
-A guy that interested in most tech, not until my head blows up 💥 but I enjoy it 👍
-<br>
-So, what's interesting lately? 🤔
+I'm Ray, {{ YEAR }} years old 🙂 <br>
+I think I need help with some code stuff 😀 <br>
+I like any projects that I found it interesting, gotchu 😉 <br>
+Kebab for life 🥙🍴
 
 ###
 
