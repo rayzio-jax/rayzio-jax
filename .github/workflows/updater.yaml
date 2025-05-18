@@ -1,0 +1,19 @@
+name: Github Actions
+on:
+    schedule:
+        - cron: "0 0 * * *" # Updates daily
+    workflow_dispatch:
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: Update age in README
+              run: |
+                  YEAR=$(( ($(date +%s) - $(date -d "2002-11-13" +%s)) / 31536000 ))
+                  sed -i "s/{{ YEAR }}/$YEAR/g" README.md
+                  git config user.name github-actions
+                  git config user.email github-actions@github.com
+                  git add README.md
+                  git commit -m "Update GitHub age"
+                  git push
