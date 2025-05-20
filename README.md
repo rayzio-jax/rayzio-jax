@@ -50,7 +50,7 @@ Kebab for life 🥙🍴
 ###
 
 <div align="center">
-  <img src="https://github-stats-smoky-sigma.vercel.app//api?username=rayzio-jax&disable_animations=false&show_icons=true" height="150" alt="stats graph" />
+  <img src="https://github-stats-smoky-sigma.vercel.app/api?username=rayzio-jax&disable_animations=false&show_icons=true" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=rayzio-jax&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=rayzio-jax&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
