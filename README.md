@@ -2,7 +2,7 @@
 
 ###
 
-I'm Ray, 22 years old 🙂 <br>
+I'm Ray, 23 years old 🙂 <br>
 I think I need help with some code stuff 😀 <br>
 I like any projects that I found it interesting, gotchu 😉 <br>
 Kebab for life 🥙🍴
@@ -50,7 +50,8 @@ Kebab for life 🥙🍴
 ###
 
 <div align="center">
-  <img src="https://github-stats-smoky-sigma.vercel.app/api?username=rayzio-jax" height="150" alt="stats graph" />
+  <img src="https://jaxuzi-github-readme.vercel.app/api?username=rayzio-jax&disable_animations=false&show_icons=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=rayzio-jax&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=rayzio-jax&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
