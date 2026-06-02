@@ -1,41 +1,25 @@
-<h2 align="left">Yo there 🙋‍♂️</h2>
+<h3 align="left">Hello there🙋‍♂️</h2>
 
 ###
 
-I'm Ray, 23 years old 🙂 <br>
-I think I need help with some code stuff 😀 <br>
-I like any projects that I found it interesting, gotchu 😉 <br>
-Kebab for life 🥙🍴
+初めまして、私はレイーです <br>
+よろしくお願いします🙇‍♂️
+<br>
+_Nice to meet you, I'm Ray_ <br>
+_I'm looking forward to connect with you🙇‍♂️_
 
 ###
 
-<h3 align="left">📃 Currently learning</h3>
+###
+
+<h3 align="left">🗣️Languages </h3>
+* 🇮🇩Indonesian - Native
+* 🇬🇧English - Fluent
+* 🇯🇵Japanese - Self-learning/Middle
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-</div>
-
-###
-
-<h3 align="left">📱 Contact me here</h3>
+<h3 align="left">📱Contact</h3>
 
 ###
 
@@ -45,10 +29,7 @@ Kebab for life 🥙🍴
 
 ###
 
-<h3 align="left">💻 Dev routine</h3>
-
-###
-
+<h3 align="left">🏆Trend Badges</h3>
 <div align="center">
   <img src="https://jaxuzi-github-readme.vercel.app/api?username=rayzio-jax&disable_animations=false&show_icons=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=rayzio-jax&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
