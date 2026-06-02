@@ -58,7 +58,7 @@ Kebab for life 🥙🍴
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rayzio-jax/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/rayzio-jax/count.svg"  />
 </div>
 
 ###
